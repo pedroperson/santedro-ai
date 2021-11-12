@@ -2,6 +2,23 @@
 
 When first running this project, you will need some packages. Run these commands inside the project
 
+
+# First time ever
+1. Get visual Studio
+2. In Visual Studio:
+  1. open the folder where you want to install the project
+  2. Open the terminal with Ctrl + \` (key to the left of 1)
+  3. In the terminal, run:
+  ```
+  git clone https://github.com/pedroperson/santedro-ai
+  ```
+  4. Open the folder that just got downloaded with visual studio code
+
+
+3. Visual Studio Extensions:
+  1. In visual studio, there is an icon in the left-most bar that takes you to extensions.
+  2. Search python in it and download the Python file
+
 ## ON MAC
 
 ```
